@@ -1,0 +1,11 @@
+{
+  "name": "smartcontract-calls-with-web3.js",
+  "version": "1.0.0",
+  "description": "A tutorial on how to call smart contract functions with web3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
